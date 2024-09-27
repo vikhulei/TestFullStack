@@ -1,0 +1,14 @@
+Practice the following
+1) Create the server
+2) Route files with Router
+3) Connect to Mongo DB
+4) Create User model
+5) Register user
+  - posting data
+  - data validation
+  - check if user exists
+  - encrypt password
+  - save the user
+  - create jwt
+6) Authenticate user
+  - middleware
